@@ -4,4 +4,7 @@ Welcome to my Data Structures and Algorithms (DSA) learning repository! Here, I 
 
 ## Table of Contents
 [topics done till 14]
-1,
+1. Array
+2. Linear Search
+3. Binary Search
+4. Bubble Sort

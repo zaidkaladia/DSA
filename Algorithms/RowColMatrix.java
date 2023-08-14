@@ -27,6 +27,6 @@ public class RowColMatrix {
                 }
             }
         }
-        return new int[]{r,c};
+        return new int[]{-1,-1};
     }
 }
