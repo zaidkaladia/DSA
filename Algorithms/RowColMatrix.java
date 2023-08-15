@@ -14,7 +14,7 @@ public class RowColMatrix {
     static int[] Search(int[][] arr, int target){
         int r = 0;
         int c = arr[r].length-1;
-        while(r <= arr.length && c >=0){
+        while(r < arr.length && c >=0){
             if (target == arr[r][c]){
                 return new int[]{r,c}; 
             }
