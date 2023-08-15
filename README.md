@@ -6,5 +6,8 @@ Welcome to my Data Structures and Algorithms (DSA) learning repository! Here, I 
 [topics done till 14]
 1. Array
 2. Linear Search
-3. Binary Search
+3. Binary Search ( for linear and 2D)
 4. Bubble Sort
+5. Selection Sort
+6. Insertion Sort
+7. Cycle Sort
